@@ -1,0 +1,33 @@
+#EXTM3U
+- Animados -
+
+ #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Locomotion_2005.svg/revision/latest/scale-to-width-down/300?cb=20200125124642&path-prefix=es" ,Locomotion TV
+http://locomotiontv.com/envivo/loco_ch/stream.m3u8
+
+ #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmQ3NmFjYjQtNzM2Yi00NDEyLTgzYjMtMzFjODAwMjg2NzUzXkEyXkFqcGdeQXVyNjM2NDIwMzQ@._V1_.jpg" ,Anime Zone TV
+http://azxtv.com/hls/stream.m3u8
+
+- Musicales -
+
+ #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/727e38ab-d273-4fac-b820-f25bb48a35b9/scale-to-width/370" ,Zona Latina
+http://38.131.11.9:1080/play/a00x
+
+ #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/VR2021.png/revision/latest/scale-to-width-down/362?cb=20210705185957" ,Video Rola
+https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8
+
+ #EXTINF:-1 tvg-logo="http://teleon.tv/images/logos/vision-tv-musica.png" ,Vision TV Musica
+https://5ee0faac3bbae.streamlock.net/visionmusica/visionmusica/playlist.m3u8
+
+ #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2021_08/large.VH1_2020.png.b1494c1580cd8abd6d5e7ff04afe9cc6.png" ,VH1
+https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
+
+ #EXTINF:-1 tvg-logo="https://www.diario26.com/images/musictop_logo.png?3" ,MusicTop
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+
+ #EXTINF:-1 tvg-logo="https://www.diariodevenusville.com/wp-content/uploads/2021/01/FREE-GUY-personaje-1.jpg" ,Free Guy (2021)
+https://pr46.sbcdnvideo.com/hls/tysxeqrrpc66j6cdab2bbfyeg2wlbjb276fskwlugaad6ojnwfzcpccp4dnq/index-v1-a1.m3u8
+
+ #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedi..." ,history Chanel
+https://live55.vkuserlive.com/639915/...
+
+- Religiosos -
